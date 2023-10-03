@@ -1482,3 +1482,7 @@ section {
         object-fit: cover;
     }
 }
+
+figcaption{
+  width: 650px;
+}
